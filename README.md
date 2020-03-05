@@ -1,6 +1,6 @@
 <!-- Developer: Sergey Nizhnik kroloburet@gmail.com -->
 
-<img src="https://rawgit.com/kroloburet/DarkAkcenta/master/img/DarkAkcenta_NetBeans_share.jpg" style="max-width:900px;margin-bottom:1.5em;">
+<img src="https://raw.githubusercontent.com/kroloburet/DarkAkcenta/master/img/DarkAkcenta_NetBeans_share.jpg" style="max-width:900px;margin-bottom:1.5em;">
 
 # Dark Akcenta
 This is a dark theme for NetBeans IDE.
@@ -18,4 +18,4 @@ This is a dark theme for NetBeans IDE.
 Free license [MIT license](https://opensource.org/licenses/MIT).
 
 ***
-<img src="https://rawgit.com/kroloburet/DarkAkcenta/master/img/i.jpg"> kroloburet@gmail.com
+<img src="https://raw.githubusercontent.com/kroloburet/DarkAkcenta/master/img/i.jpg"> kroloburet@gmail.com
